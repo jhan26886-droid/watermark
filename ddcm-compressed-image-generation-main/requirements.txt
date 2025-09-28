@@ -1,0 +1,14 @@
+torch
+torchvision
+matplotlib
+scipy==1.14.1
+tqdm
+numpy
+diffusers
+transformers
+accelerate
+opencv-python
+timm
+pyiqa
+facexlib
+xformers
